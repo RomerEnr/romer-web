@@ -90,7 +90,7 @@
 }
 button.button-default:hover,
 .button.button-default:hover:before {
-  content: 'My professional email, where you can contact me for a job offer';
+  content: 'My professional email, where you can contact me for a job offer.';
   white-space: initial; }
 
 /* Amazon */
@@ -219,7 +219,7 @@ button.button-default:hover,
 /* Separar texto al hacer hover */
 .button.button-github:hover,
 .button.button-github:hover:before {
-  content: 'In this place you will find my Github profile and personal projects';
+  content: 'In this place you will find my Github profile and personal projects.';
   white-space: initial; }
 
 /* Gitlab */
@@ -289,7 +289,7 @@ button.button-default:hover,
 }
 button.button-linked:hover,
 .button.button-linked:hover:before {
-  content: 'Here you can find my LinkedIn profile, my professional experience and my projects';
+  content: 'Here you can find my LinkedIn profile, my professional experience and my projects.';
   white-space: initial; }
 
 /* Mastodon */
